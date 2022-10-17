@@ -1,6 +1,5 @@
 package com.bridgelabz.basics;
 
-import java.security.KeyStore;
 import java.util.Scanner;
 
 public class LeapYeaOrNot {
