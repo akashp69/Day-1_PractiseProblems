@@ -9,6 +9,6 @@ public class StringEqualOrNot{
     }
     public static void main(String[] args){
         System.out.println("Checking Two Strings Are Equal or Not Equal");
-        StringExample();//method calling
+        stringExample();//method calling
     }
 }
