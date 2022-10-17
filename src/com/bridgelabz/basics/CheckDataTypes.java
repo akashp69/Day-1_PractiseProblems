@@ -1,6 +1,6 @@
 package com.bridgelabz.basics;
 
-public class CheckDataTypes {
+public class checkDataTypes {
 
    static byte a;
    static short b;
