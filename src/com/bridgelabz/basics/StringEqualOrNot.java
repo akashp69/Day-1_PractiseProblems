@@ -1,7 +1,7 @@
 package com.bridgelabz.basics;
 
 public class StringEqualOrNot{
-    static void StringExample(){
+    static void stringExample(){
         String a="Akash";
         String b="akash";
         System.out.println(a.equals(b));//False (a Not Equal to b)
